@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello World!");
-  getchar();
+  printf("Hello World!\n");
+  printf("Yo bros this is Vova!!!");
   getchar();
   return 0;
 }
